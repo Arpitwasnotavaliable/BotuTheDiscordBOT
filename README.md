@@ -49,10 +49,10 @@ For a full list of commands and usage instructions, refer to the documentation.
 ## Modules Used
 
 - `/Discord.js`: discord.js is a powerful Node.js module that allows you to interact with the Discord API very easily. It takes a much  more object-oriented approach than most other JS Discord libraries, making your bot's code significantly tidier and easier to comprehend.
--`/Canvacord`: Easily generate images using react-like components in nodejs.
--`/MongoDB`: As a document database, MongoDB makes it easy for developers to store structured or unstructured data.
--`/dotenv`: It allows you to create environment variables in a . env file instead of putting them in your code.
--`/server.js`: js is a single-threaded, open-source, cross-platform runtime environment for building fast and scalable server-side and networking applications.
+- `/Canvacord`: Easily generate images using react-like components in nodejs.
+- `/MongoDB`: As a document database, MongoDB makes it easy for developers to store structured or unstructured data.
+- `/dotenv`: It allows you to create environment variables in a . env file instead of putting them in your code.
+- `/server.js`: js is a single-threaded, open-source, cross-platform runtime environment for building fast and scalable server-side and networking applications.
 
 
 ## Future goals
